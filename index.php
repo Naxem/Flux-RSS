@@ -1,6 +1,6 @@
 <?php
 // URL de la page du site (page d'accueil ou autre)
-$siteUrl = "https://www.lebigdata.fr";  // Remplace par l'URL du site que tu veux analyser
+$siteUrl = "https://store.steampowered.com/news/";  // Remplace par l'URL du site que tu veux analyser
 
 // Fonction pour récupérer le contenu d'une page via cURL
 function getCurlContent($url) {
